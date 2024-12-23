@@ -2,5 +2,5 @@
 Collaboration projects with jKujal
 
 ## Contributors
-- [Your Name](https://github.com/MarkusR73)
-- [Friend's Name](https://github.com/jKujal)
+- [Markus](https://github.com/MarkusR73)
+- [Joonas](https://github.com/jKujal)
